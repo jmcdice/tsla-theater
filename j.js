@@ -22,7 +22,7 @@ function goFullScreen() {
 }
 
 function goFullScreenYoutube() {
-    location.href='https://www.youtube.com/redirect?q=http://tsla-theater.cc/';
+    location.href='https://www.youtube.com/redirect?q=https://tsla-theater.apps.pcfone.io/';
     setTimeout(() => { hide("overlayfullscreen") }, 5000);
 }
 function showLoader() {
